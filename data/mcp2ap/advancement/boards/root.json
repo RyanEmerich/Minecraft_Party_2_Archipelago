@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Archipelago - Boards",
+        "description": "Checks for completing Board Tasks",
+        "announce_to_chat": false,
+        "background": "minecraft:block/note_block"
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

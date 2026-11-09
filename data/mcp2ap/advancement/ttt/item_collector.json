@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:bundle"
+        },
+        "title": "Item Collector",
+        "description": "Collect 3 or more items in a single turn without buying a Goodie Bag",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/win_streak",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

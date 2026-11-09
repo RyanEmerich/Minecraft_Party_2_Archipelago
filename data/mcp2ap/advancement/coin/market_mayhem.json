@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:emerald"
+        },
+        "title": "Market Mayhem",
+        "description": "Complete the Market Mayhem Coin Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:coin/mineshaft_madness",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

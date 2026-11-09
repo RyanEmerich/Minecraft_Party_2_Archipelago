@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:firework_rocket",
+            "components": {
+                "minecraft:custom_model_data":  {
+                    "floats": [
+                        6
+                    ]
+                }
+            }
+        },
+        "title": "Crazy Carnival Completed",
+        "description": "Complete the Crazy Carnival objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

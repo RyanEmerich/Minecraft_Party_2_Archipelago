@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:tipped_arrow",
+            "components": {
+                "minecraft:potion_contents": {
+                    "potion": "minecraft:weakness"
+                }
+            }
+        },
+        "title": "Cannoneers",
+        "description": "Complete the Cannoneers Duel",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:duels/decryption",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

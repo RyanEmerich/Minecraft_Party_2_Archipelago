@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:glass"
+        },
+        "title": "Space Jumpers",
+        "description": "Complete the Space Jumpers Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:team_minigames/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

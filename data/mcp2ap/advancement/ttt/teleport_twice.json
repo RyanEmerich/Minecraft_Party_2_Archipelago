@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:ender_pearl"
+        },
+        "title": "Teleport Twice",
+        "description": "Teleport twice from the same teleporter (Lush Crater)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/lucky_charm",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

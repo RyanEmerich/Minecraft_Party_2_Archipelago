@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:golden_chestplate"
+        },
+        "title": "Trophy Bonuses",
+        "description": "Collect 8+ additional Coins from Minigames using Trophy Armor",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/bling_space_coin",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

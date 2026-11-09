@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:red_mushroom"
+        },
+        "title": "Mooshroom Grotto Completed",
+        "description": "Complete the Mooshroom Grotto objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/zen_garden",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

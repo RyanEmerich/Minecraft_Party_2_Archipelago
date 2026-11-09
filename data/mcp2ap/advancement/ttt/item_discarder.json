@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:bundle"
+        },
+        "title": "Item Discarder",
+        "description": "Discard 3 Items",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/magenta_space_lander",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

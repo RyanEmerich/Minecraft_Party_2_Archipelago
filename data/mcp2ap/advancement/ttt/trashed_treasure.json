@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:end_crystal"
+        },
+        "title": "Trashed Treasure",
+        "description": "Discard a Star Stealer/Counterfeiter",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/long_launch_from_cannon",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:fern"
+        },
+        "title": "Arcane Atoll Completed",
+        "description": "Complete the Arcane Atoll objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

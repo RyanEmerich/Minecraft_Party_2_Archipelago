@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:axolotl_spawn_egg"
+        },
+        "title": "Eggcellence",
+        "description": "Complete the Eggcellence Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:team_minigames/gold_rush",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

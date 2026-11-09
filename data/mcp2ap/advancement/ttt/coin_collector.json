@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:sunflower"
+        },
+        "title": "Coin Collector",
+        "description": "Collect 30 Coins without triggering a Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

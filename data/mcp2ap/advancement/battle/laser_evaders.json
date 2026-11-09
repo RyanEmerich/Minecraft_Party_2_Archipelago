@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:trial_spawner"
+        },
+        "title": "Laser Evaders",
+        "description": "Complete the Laser Evaders Battle Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:battle/obstacle_field",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

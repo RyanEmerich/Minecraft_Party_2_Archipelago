@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmFmODE4YjA0ZDZhZTk4YTY5YWQ4ZDk0NjNkOGQwMzc5OTIxZDNlYjc5MjIyZTFjNjI3MmY2NTM3MmQ4MDc3NSJ9fX0="
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Ztar Curse",
+        "description": "Lose a Star from the Ztar Seller (Dusty Dunes)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/large_haul",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

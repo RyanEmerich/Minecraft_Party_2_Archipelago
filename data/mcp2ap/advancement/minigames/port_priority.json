@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:chest"
+        },
+        "title": "Port Priority",
+        "description": "Complete the Port Priority Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:minigames/farming_frenzy",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

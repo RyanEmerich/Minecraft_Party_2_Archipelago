@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Soul Cleanse",
+        "description": "Sacrifice 5 negative karma in the spirit room (Fort Suits)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/not_a_scratch",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

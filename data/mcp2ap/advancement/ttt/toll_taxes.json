@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+                "id": "minecraft:sunflower"
+        },
+        "title": "Toll Taxes",
+        "description": "Break five tolls (Courtyard)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/rainbow_lander",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

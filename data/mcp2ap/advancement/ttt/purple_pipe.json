@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:ender_pearl"
+        },
+        "title": "Purple Pipe",
+        "description": "Warp to a random Space using the Ender Armor",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/star_shard_forger",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

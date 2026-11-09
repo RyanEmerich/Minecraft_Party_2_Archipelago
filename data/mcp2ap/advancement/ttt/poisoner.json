@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:brown_mushroom"
+        },
+        "title": "Poisoner",
+        "description": "Poison the Potion Brewer (Mooshroom Grotto)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/random_warp",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

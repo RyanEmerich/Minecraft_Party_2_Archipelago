@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:tripwire_hook"
+        },
+        "title": "Labyrinth",
+        "description": "Complete the Labyrinth Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:team_minigames/maze_navigator",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

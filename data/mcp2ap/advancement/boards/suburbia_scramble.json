@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:smoker"
+        },
+        "title": "Suburbia Scramble Completed",
+        "description": "Complete the Suburbia Scramble objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/rhythmic_room",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

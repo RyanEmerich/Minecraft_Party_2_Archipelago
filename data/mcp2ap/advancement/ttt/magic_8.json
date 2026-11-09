@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM1MWQzY2JiYzFlZGQ2ODMwODAyMTI0YTFlMDg2ZDllMTA3YzRkNmYzYTcwNmIwYzZkZGJlYzFhNDMzZTMwZCJ9fX0="
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Magic 8",
+        "description": "Roll a 8 using a Magic Dice",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/battle_warrior",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

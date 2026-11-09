@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:glowstone_dust"
+        },
+        "title": "Pac-Maze Completed",
+        "description": "Complete the Pac-Maze objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/candyland",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

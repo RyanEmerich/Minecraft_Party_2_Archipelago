@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:skeleton_skull"
+        },
+        "title": "Recruitment Royale",
+        "description": "Complete the Recruitment Royale Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:team_minigames/space_jumpers",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

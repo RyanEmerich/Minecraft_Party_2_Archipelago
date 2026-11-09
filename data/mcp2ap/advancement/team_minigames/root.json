@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Archipelago - Team Minigames",
+        "description": "Checks for completing 2v2 and 1v3 Minigames",
+        "announce_to_chat": false,
+        "background": "minecraft:block/note_block"
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

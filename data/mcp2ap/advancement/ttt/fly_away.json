@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:phantom_spawn_egg"
+        },
+        "title": "Fly Away",
+        "description": "Take the Phantom away from the island with the Wizard Hut (Arcane Atoll)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/give_item_to_pablo",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

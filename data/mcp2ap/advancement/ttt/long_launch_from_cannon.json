@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:firework_rocket",
+            "components": {
+                "minecraft:custom_model_data": {
+                    "floats": [
+                        1
+                    ]
+                }
+            }
+        },
+        "title": "Long Launch from Cannon",
+        "description": "Skip over 20-50 Spaces using the Candy/Sandy Cannon (Candyland/Dusty Dunes)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/doubles_or_triples",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

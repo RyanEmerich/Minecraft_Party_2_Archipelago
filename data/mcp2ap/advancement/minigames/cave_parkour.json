@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:leather_boots",
+            "components": {
+                "minecraft:dyed_color": 1663618
+            }
+        },
+        "title": "Cave Parkour",
+        "description": "Complete the Cave Parkour Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:minigames/monster_shoot",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

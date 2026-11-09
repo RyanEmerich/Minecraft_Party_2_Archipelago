@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:elytra"
+        },
+        "title": "Hoopin' n' Swoopin'",
+        "description": "Complete the Hoopin' n' Swoopin' Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:minigames/raft_racers",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

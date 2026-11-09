@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Lucky Charm",
+        "description": "Hold onto any new relic for 5 turns (Lush Crater)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/toll_taxes",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

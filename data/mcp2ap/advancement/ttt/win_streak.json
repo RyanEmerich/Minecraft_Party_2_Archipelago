@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Win Streak",
+        "description": "Win 3 Minigames in a row",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/deep_coin_pockets",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

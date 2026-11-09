@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Three Time Loser",
+        "description": "Fail to win 3 FFA Minigames",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/purple_pipe",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

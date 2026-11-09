@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Bumblebee",
+        "description": "Land on 2 Yellow and 2 Black Spaces",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

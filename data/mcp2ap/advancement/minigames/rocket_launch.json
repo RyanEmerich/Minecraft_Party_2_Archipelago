@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:firework_rocket"
+        },
+        "title": "Rocket Launch",
+        "description": "Complete the Rocket Launch Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:minigames/port_priority",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

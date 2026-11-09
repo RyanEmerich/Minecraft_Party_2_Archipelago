@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:wheat"
+        },
+        "title": "Farming Frenzy",
+        "description": "Complete the Farming Frenzy Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:minigames/rlgl",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Mega Star Bundle",
+        "description": "Purchase 5 Stars at a time (Zen Garden)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/bews_guest",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

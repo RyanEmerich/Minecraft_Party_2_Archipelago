@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:black_banner",
+            "components": {
+                "minecraft:banner_patterns": [
+                    {
+                        "pattern": "minecraft:circle", "color": "white"
+                    }
+                ]
+            }
+        },
+        "title": "Ground Mark",
+        "description": "Complete the Ground Mark Micro Duel",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:micro_duels/snowman_zombie_blaze",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:oak_hanging_sign"
+        },
+        "title": "Coin Hoard",
+        "description": "Pass a Shop without buying anything while being able to afford every item and having a free item slot",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/in_a_circle",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

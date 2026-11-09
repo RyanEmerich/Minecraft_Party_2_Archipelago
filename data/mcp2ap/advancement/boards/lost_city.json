@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:prismarine_shard"
+        },
+        "title": "Lost City Completed",
+        "description": "Complete the Lost City objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/port_town",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

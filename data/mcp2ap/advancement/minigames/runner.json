@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:golden_boots"
+        },
+        "title": "Runner",
+        "description": "Complete the Runner Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:minigames/rainbow_run",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

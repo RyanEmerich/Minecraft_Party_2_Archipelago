@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:chiseled_sandstone"
+        },
+        "title": "Not a Scratch",
+        "description": "Complete a temple dungeon without losing any health (Dusty Dunes)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/present_reclaimer",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

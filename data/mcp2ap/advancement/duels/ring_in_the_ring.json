@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:bell"
+        },
+        "title": "Ring in the Ring",
+        "description": "Complete the Ring in the Ring Duel",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:duels/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

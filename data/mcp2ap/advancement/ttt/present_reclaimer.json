@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTIzMmZmOGY0NDQxNjdlMmU4YmU2NjllZDU2Y2VhZjBmZTg3MmUyMzhlNGMxOWIxOGFkM2I4NzQyODZmMDQ5OSJ9fX0"
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Present Reclaimer",
+        "description": "Collect 5+ Presents from the Grinch's Cave Challenge in one attempt (Present Palace)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

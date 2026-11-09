@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:goat_horn"
+        },
+        "title": "Center Park Completed",
+        "description": "Complete the Center Park objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

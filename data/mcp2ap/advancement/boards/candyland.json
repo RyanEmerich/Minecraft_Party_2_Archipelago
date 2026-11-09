@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:cake"
+        },
+        "title": "Candyland Completed",
+        "description": "Complete the Candyland objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

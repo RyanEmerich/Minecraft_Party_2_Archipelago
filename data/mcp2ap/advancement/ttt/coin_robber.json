@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:tripwire_hook"
+        },
+        "title": "Coin Robber",
+        "description": "Collect at least 10 Coins from the Coin robbing Challenge (Center Park)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/item_collector",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

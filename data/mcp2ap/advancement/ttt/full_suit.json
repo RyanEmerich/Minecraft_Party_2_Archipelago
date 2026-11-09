@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_chestplate"
+        },
+        "title": "Full Suit",
+        "description": "Collect a full set of the same type of Equipment",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/item_shopper",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

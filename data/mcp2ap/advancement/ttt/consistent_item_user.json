@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:bundle"
+        },
+        "title": "Consistent Item User",
+        "description": "Use an Item on your turn for 5 turns in a row",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/item_discarder",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

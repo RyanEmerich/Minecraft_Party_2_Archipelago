@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Three of a Kind",
+        "description": "Have 3 of the same item",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/trashed_treasure",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

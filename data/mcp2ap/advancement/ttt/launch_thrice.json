@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Launch Thrice",
+        "description": "Launch into the air 3 times from landing on magenta spaces (Rhythmic Room)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/minion_suction",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

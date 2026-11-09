@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjc4NDRhNWI3NGYzNDEwMzk1NjBmMjgwZGIxZmNkZjgzNmUzYjZhNDhkYzJhMDkzNTE5Mzc2MjY5NzdlMWMyIn19fQ=="
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Rainbow Lander",
+        "description": "Land on every unique single colored space",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/challenge_mastery",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFjNjBmMzEyNTc4Y2QyNTI4MzY1ZGJiMTY3NjJmZTkxZDg3ZTIwYjFkZDQ3NjI5YzVjYWU5ZDI0MzZiZTQ2YyJ9fX0="
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Random Warp",
+        "description": "Warp using a random warp (Pac Maze)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/ice_cream_melt",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

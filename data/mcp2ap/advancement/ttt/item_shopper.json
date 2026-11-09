@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:bundle"
+        },
+        "title": "Item Shopper",
+        "description": "Buy 5 unique Items from the Shop",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/coin_thief",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

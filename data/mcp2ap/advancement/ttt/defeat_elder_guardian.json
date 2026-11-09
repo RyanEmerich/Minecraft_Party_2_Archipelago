@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZiM2U4YTdjYWRkZWY2NzM5NTliY2YyZmI4ZDhkYjUwODYwODZhNDJjYmViNmUzYjY2ZjgwMDE2ZGI2NDc3MCJ9fX0="
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Defeat Elder Guardian",
+        "description": "Defeat the Elder Guardian (Lost City)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:sunflower"
+        },
+        "title": "Deep Coin Pockets",
+        "description": "Obtain over 100 Coins",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/coin_hoard",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

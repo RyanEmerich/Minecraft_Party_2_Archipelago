@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:repeater"
+        },
+        "title": "On The Dot",
+        "description": "Complete the On The Dot Micro Duel",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:micro_duels/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:iron_chestplate"
+        },
+        "title": "Mixed Suit",
+        "description": "Collecta full set of different types of Equipment",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/full_suit",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

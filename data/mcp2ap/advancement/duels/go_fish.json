@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:fishing_rod"
+        },
+        "title": "Go Fish!",
+        "description": "Complete the Go Fish! Duel",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:duels/ring_in_the_ring",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

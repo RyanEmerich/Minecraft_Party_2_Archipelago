@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:scaffolding"
+        },
+        "title": "Lofty Luncheon Completed",
+        "description": "Complete the Lofty Luncheon objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/suburbia_scramble",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

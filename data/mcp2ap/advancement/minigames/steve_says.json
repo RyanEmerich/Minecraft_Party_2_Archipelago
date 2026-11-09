@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head"
+        },
+        "title": "Steve says",
+        "description": "Complete the Steve says Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:minigames/speed_builders",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

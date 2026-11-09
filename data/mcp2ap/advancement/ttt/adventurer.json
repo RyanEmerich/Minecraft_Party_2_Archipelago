@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Adventurer",
+        "description": "Complete any Quest (Airborne Isles)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/double_switch",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWNlMWM5ZGRhM2VkZDljNDFhMTdhNzMzZTk4YjQwNWJhMWFjZDQxMzllOTZiZjFhMTU3Y2IxMWRhNWJlOWIyNiJ9fX0="
+                        }
+                    ]
+                }
+            }
+        },
+        "title": "Self Mini/Binary Dice",
+        "description": "Use a Mini or Binary Dice on yourself",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/magic_8",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

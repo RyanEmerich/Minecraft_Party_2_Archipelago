@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:painting"
+        },
+        "title": "Puzzled",
+        "description": "Complete the Puzzled Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:minigames/trident_tumblers",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

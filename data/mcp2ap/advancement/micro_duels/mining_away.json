@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_pickaxe"
+        },
+        "title": "Mining Away",
+        "description": "Complete the Mining Away Micro Duel",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:micro_duels/on_the_dot",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

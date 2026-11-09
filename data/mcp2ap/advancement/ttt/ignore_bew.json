@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "title": "Ignore Bew",
+        "description": "Enter and exit Bew's Portal without stealing anything (Port Town)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/racer",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

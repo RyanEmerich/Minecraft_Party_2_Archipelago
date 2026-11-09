@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:black_banner",
+            "components": {
+                "minecraft:banner_patterns": [
+                    { "pattern": "minecraft:skull", "color": "white"}
+                ]
+            }
+        },
+        "title": "Port Town Completed",
+        "description": "Complete the Port Town objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/airborne_isles",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

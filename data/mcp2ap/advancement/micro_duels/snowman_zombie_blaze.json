@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:carved_pumpkin"
+        },
+        "title": "Snowman, Zombie, Blaze",
+        "description": "Complete the Snowman, Zombie, Blaze Micro Duel",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:micro_duels/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:brush"
+        },
+        "title": "Grave Diggers",
+        "description": "Complete the Grave Diggers Coin Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:coin/bat_blast",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

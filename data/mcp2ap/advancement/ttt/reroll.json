@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:heart_of_the_sea"
+        },
+        "title": "Reroll",
+        "description": "Use any Reroll Token",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/star_teleporter",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

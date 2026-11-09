@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_chestplate"
+        },
+        "title": "Recover Item",
+        "description": "Recover an Item",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/three_time_loser",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

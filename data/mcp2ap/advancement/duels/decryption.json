@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:silence_armor_trim_smithing_template"
+        },
+        "title": "Decryption",
+        "description": "Complete the Decryption Duel",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:duels/betris",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

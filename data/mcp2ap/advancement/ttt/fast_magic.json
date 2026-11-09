@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:breeze_rod"
+        },
+        "title": "Fast Magic",
+        "description": "Trigger two Spells in one turn (Arcane Atoll)",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/secret_diner",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

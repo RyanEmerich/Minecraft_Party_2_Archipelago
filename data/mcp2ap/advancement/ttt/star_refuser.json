@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:painting"
+        },
+        "title": "Star Refuser",
+        "description": "Pass a Star Seller without buying a Star when you can afford the Star",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:ttt/bumblebee",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:warped_fence_gate"
+        },
+        "title": "Hole In The Wall",
+        "description": "Complete the Hole In The Wall Battle Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:battle/color_chaos",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

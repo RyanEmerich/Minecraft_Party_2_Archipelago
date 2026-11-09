@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:heart_pottery_sherd"
+        },
+        "title": "Fort Suits Completed",
+        "description": "Complete the Fort Suits objective",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:boards/dusty_dunes",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

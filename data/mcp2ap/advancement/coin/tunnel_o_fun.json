@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:orange_candle"
+        },
+        "title": "Tunnel o' Fun",
+        "description": "Complete the Tunnel o' Fun Coin Minigame",
+        "announce_to_chat": false
+    },
+    "parent": "mcp2ap:coin/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
